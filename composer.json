@@ -1,0 +1,19 @@
+{
+    "name": "m-r-r/lazy-container",
+    "description": "Smallest possible Dependency Injection container",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "LazyContainer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "m-r-r",
+            "email": "raybaudroigm@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    }
+}
